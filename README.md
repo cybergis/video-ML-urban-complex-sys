@@ -1,6 +1,5 @@
 # Video Machine Learning Framework for Spatiotemporal Analysis in Urban Complex System
 
-by Fangzheng Lyu, Daniel Kiv, Xinlin Ma, and Shaowen Wang
 
 ## Table of Contents
 
